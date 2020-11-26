@@ -9,8 +9,8 @@ public class ReverseInteger {
         while (x != 0)
         {
             rem = x%10;
-            x /= 10;
-            
+//             x /= 10;
+            x = x/10;
             if(result > Integer.MAX_VALUE/10 || result < Integer.MIN_VALUE/10){
                 return 0;
             }
