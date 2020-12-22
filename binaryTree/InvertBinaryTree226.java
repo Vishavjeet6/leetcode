@@ -1,4 +1,4 @@
-package leetcode.recursion;
+package leetcode.binaryTree;
 
 public class InvertBinaryTree226 {
     public TreeNode invertTree(TreeNode root) {

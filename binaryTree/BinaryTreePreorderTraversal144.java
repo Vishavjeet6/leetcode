@@ -1,4 +1,4 @@
-package leetcode.recursion;
+package leetcode.binaryTree;
 
 public class BinaryTreePreorderTraversal144 {
     public List<Integer> preorderTraversal(TreeNode root) {
