@@ -1,6 +1,6 @@
 package leetcode.dynamicProgramming;
 
-public class MinCostClimbingStairs764 {
+public class MinCostClimbingStairs746 {
 	
 	
 	class Solution {
